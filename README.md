@@ -13,4 +13,4 @@ node index
 
 Then, if you have Kibana running, you can import `kibana-export.ndjson` for a dashboard:
 
-![Kibana Dashboard](https://files.slack.com/files-pri/T0CUZ52US-F01095CG53P/image.png)
+![Kibana Dashboard](https://user-images.githubusercontent.com/1178348/76987045-c2a89a00-68ff-11ea-8080-80d1a2e6fa6a.png)
