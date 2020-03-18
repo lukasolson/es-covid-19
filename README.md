@@ -2,6 +2,8 @@
 
 Index the latest covid-19 (coronavirus) outbreak data into Elasticsearch.
 
+Source: https://github.com/CSSEGISandData/COVID-19
+
 #### Usage
 
 Run the following commands:
