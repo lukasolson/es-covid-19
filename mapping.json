@@ -1,0 +1,48 @@
+{
+  "properties": {
+    "@timestamp": {
+      "type": "date"
+    },
+    "country_region": {
+      "type": "keyword"
+    },
+    "location": {
+      "type": "geo_point"
+    },
+    "new_active": {
+      "type": "integer"
+    },
+    "new_confirmed": {
+      "type": "integer"
+    },
+    "new_deaths": {
+      "type": "integer"
+    },
+    "new_recovered": {
+      "type": "integer"
+    },
+    "total_active": {
+      "type": "integer"
+    },
+    "total_confirmed": {
+      "type": "integer"
+    },
+    "total_deaths": {
+      "type": "integer"
+    },
+    "total_recovered": {
+      "type": "integer"
+    },
+    "percent_deaths": {
+      "type": "scaled_float",
+      "scaling_factor": 1000
+    },
+    "percent_recovered": {
+      "type": "scaled_float",
+      "scaling_factor": 1000
+    },
+    "province_state": {
+      "type": "keyword"
+    }
+  }
+}

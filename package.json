@@ -1,0 +1,11 @@
+{
+  "name": "es-covid-19",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^4.8.8",
+    "elasticsearch": "^16.6.0",
+    "node-fetch": "^2.6.0"
+  }
+}
