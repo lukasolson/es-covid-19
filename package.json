@@ -6,6 +6,6 @@
   "dependencies": {
     "csv-parse": "^4.8.8",
     "elasticsearch": "^16.6.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
