@@ -30,10 +30,10 @@ chalk@^1.0.0:
     strip-ansi "^3.0.0"
     supports-color "^2.0.0"
 
-csv-parse@^4.8.8:
-  version "4.8.8"
-  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-4.8.8.tgz#0acbc4598c1f28652c4250599108096b3a0a68ae"
-  integrity sha512-Kv3Ilz2GV58dOoHBXRCTF8ijxlLjl80bG3d67XPI6DNqffb3AnbPbKr/WvCUMJq5V0AZYi6sukOaOQAVpfuVbg==
+csv-parse@^7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-7.0.2.tgz#76ff913d5b07d56170e071ebc788f51a21e4b17f"
+  integrity sha512-uKZghv9UmPkMVLYy//KZ9HFAIJsl7wkhoEdIL0+rhuSY9pZQlhaeGEDPIe+/w7eh81MOql8Q/9+inAGWG6ZHYA==
 
 data-uri-to-buffer@^4.0.0:
   version "4.0.0"
